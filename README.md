@@ -13,6 +13,11 @@ corresponding mouth shape. The result is an `.anims` file, the format the
 game uses for lipsync animations. It can be imported and used in WolvenKit
 easily (instructions below).
 
+> [!TIP]
+> Want to see how it works before you install anything? Try the demo at
+> [lipsync.tools](https://lipsync.tools/): give it a recording and its
+> text, and download the `.anims` it makes.
+
 ## Install
 
 The tool runs on Windows, like WolvenKit.

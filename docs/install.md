@@ -3,6 +3,9 @@
 For Windows, with a check after each step. You install everything for your
 user only, without administrator rights.
 
+To try the tool before you install it, use the demo at
+[lipsync.tools](https://lipsync.tools/).
+
 ## 1. Python
 
 1. Download Python from [python.org](https://www.python.org/downloads/)
